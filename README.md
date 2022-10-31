@@ -11,7 +11,7 @@
 5. Размещение странички на хостинге.
 
 
-◀️ Ссылка на отчет https://github.com/Nikolay2312/otchet/blob/main/README.md
+◀️ <a href="https://github.com/Nikolay2312/otchet/blob/main/README.md"> Ссылка на отчет</a>
 
 
 ## ✔️ Лабораторная работа № 2
@@ -21,7 +21,7 @@
 
 ## ✔️ Лабораторная работа № 3
 Работа с Cisco Packet Tracer
-1. Ссылка на отчет https://github.com/Nikolay2312/otchet/blob/main/README.md
+1. Ссылка на <a href="https://github.com/Nikolay2312/otchet/blob/main/README.md"> отчет</a> 
 2. <a href="https://github.com/Nikolay2312/laba3/blob/main/lr3.pkt">.pkt файл Cisco Packet Tracer </a>
 
 ## ✔️ [Экзаменационные билет №4](https://github.com/stankin/inet-2022/wiki/exam04)
